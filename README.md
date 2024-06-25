@@ -9,3 +9,4 @@ To run the node backend, clone the repo and navigate to the backend folder and d
 
 To run the frontend, after cloning navigate to frontend folder and do npm install and npm start
 
+live link:https://mern-app-zi81.onrender.com/
